@@ -63,6 +63,6 @@ The system evaluates patient-reported symptoms including:
 
 ## License
 
-This project is for **educational purposes** and currently does not include any license. Use responsibly.
+This project is for **educational purposes** and currently does not include any license.
 
 ---

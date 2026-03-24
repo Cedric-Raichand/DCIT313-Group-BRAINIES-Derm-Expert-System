@@ -49,7 +49,7 @@ The system evaluates patient-reported symptoms including:
 | Immanuel Oheneba Debe  | Project Manager    | 22243130    |
 | Adjei Asaph Adjetey    | Knowledge Engineer | 22242385    |
 | David Edu Turkson      | Knowledge Engineer | 22012947    |
-| DZODZODZI CEDRICK      | Programmer         | 22046156    |
+| CEDRIC RAICHAND    | Programmer         | 22046156    |
 | Juliet Adoma Minta     | Programmer         | 22058472    |
 | Amuzu Jonas Kudzo      | Programmer         | 22198544    |
 | Asante Kojo Boakye     | Programmer         | 22065837    |

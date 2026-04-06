@@ -1,23 +1,5 @@
 
-DCIT313-Group-Brainies-Derm-Expert-System
-Repository navigation
-Code
-Issues
-Pull requests
-Important update
-On April 24 we'll start using GitHub Copilot interaction data for AI model training unless you opt out. Review this update and manage your preferences in your GitHub account settings.
 DCIT313-Group-Brainies-Derm-Expert-System/docs
-/knowledge_engineering_report.md
-Khojoe
-Khojoe
-3 weeks ago
-97 lines (67 loc) · 7.68 KB
-
-Preview
-
-Code
-
-Blame
 Knowledge Engineering Report: DermExpert Skin Disease Diagnosis Expert System
 Introduction
 Knowledge Engineering for DermExpert involved acquiring dermatological knowledge on symptoms, diagnostics, and advice for Acne, Eczema, Psoriasis, Ringworm, Dermatitis, and Scabies from credible sources like Mayo Clinic, CDC, Cleveland Clinic, and WHO. This was structured into Prolog rules for forward chaining inference, mapping user symptoms (perceptions) to diagnoses/advice (actions). The process: identify symptoms via source review, elicit distinctions, represent as predicates (e.g., itching), validate for positive/negative cases, and note limitations (deterministic rules; no uncertainty handling). Sources emphasize ethical use: system outputs always disclaim professional advice.

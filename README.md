@@ -59,7 +59,8 @@ The system evaluates patient-reported symptoms including:
 - Integration of image-based diagnosis using machine learning  
 - Mobile application version  
 - Expansion to include more skin conditions  
-- Admin panel for updating medical rules  
+- Admin panel for updating medical rules
+- Improve diagnoses of diseases base on symptoms 
 
 ## License
 

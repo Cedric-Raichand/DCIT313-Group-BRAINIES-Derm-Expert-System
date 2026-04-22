@@ -8,6 +8,7 @@ DermExpert is a **rule-based expert system** designed to assist in the diagnosis
 
 This system is developed for academic purposes and demonstrates how expert systems can be applied in healthcare to provide consistent and transparent preliminary diagnoses.
 
+
 ## Key Features
 
 - Forward chaining inference engine  
